@@ -1,33 +1,33 @@
 [
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 30687,
+    "stargazers_count": 30704,
     "open_issues_count": 147,
-    "forks_count": 3300
+    "forks_count": 3305
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 61928,
+    "stargazers_count": 62100,
     "open_issues_count": 51,
-    "forks_count": 7974
+    "forks_count": 8006
   },
   {
     "full_name": "szimek/signature_pad",
-    "stargazers_count": 7681,
-    "open_issues_count": 5,
-    "forks_count": 1748
+    "stargazers_count": 7688,
+    "open_issues_count": 6,
+    "forks_count": 1750
   },
   {
     "full_name": "segmentio/kafka-go",
-    "stargazers_count": 4281,
+    "stargazers_count": 4302,
     "open_issues_count": 104,
-    "forks_count": 483
+    "forks_count": 485
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 74515,
-    "open_issues_count": 140,
-    "forks_count": 5250
+    "stargazers_count": 74911,
+    "open_issues_count": 139,
+    "forks_count": 5272
   },
   {
     "full_name": "tsironis/lockr",
@@ -51,6 +51,6 @@
     "full_name": "survivingwithandroid/Surviving-with-android",
     "stargazers_count": 1278,
     "open_issues_count": 14,
-    "forks_count": 2829
+    "forks_count": 2828
   }
 ]
