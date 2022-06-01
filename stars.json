@@ -1,33 +1,33 @@
 [
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 31241,
+    "stargazers_count": 31258,
     "open_issues_count": 146,
-    "forks_count": 3423
+    "forks_count": 3426
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 68047,
+    "stargazers_count": 68252,
     "open_issues_count": 59,
-    "forks_count": 9055
+    "forks_count": 9097
   },
   {
     "full_name": "szimek/signature_pad",
-    "stargazers_count": 8062,
+    "stargazers_count": 8066,
     "open_issues_count": 8,
-    "forks_count": 1818
+    "forks_count": 1817
   },
   {
     "full_name": "segmentio/kafka-go",
-    "stargazers_count": 4791,
-    "open_issues_count": 110,
+    "stargazers_count": 4814,
+    "open_issues_count": 109,
     "forks_count": 557
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 89473,
-    "open_issues_count": 147,
-    "forks_count": 5847
+    "stargazers_count": 89798,
+    "open_issues_count": 144,
+    "forks_count": 5863
   },
   {
     "full_name": "tsironis/lockr",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "tantaman/LargeLocalStorage",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 7,
     "forks_count": 51
   },
